@@ -1,0 +1,17 @@
+body{
+    background-color: whitesmoke;
+    font-size: xx-large;
+    
+}
+.complete{
+    text-decoration: line-through;
+
+}
+
+.list{
+        list-style:none;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center
+}
